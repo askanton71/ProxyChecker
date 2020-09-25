@@ -7,16 +7,12 @@
 ##
 ## WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
-import sys, time
+import sys
 from PySide2 import QtWidgets
 from PySide2.QtCore import (QCoreApplication, QMetaObject, QRect)
-from PySide2.QtWidgets import *
-import logging
 from PySide2.QtCore import *
-from PySide2.QtGui import *
 from PySide2.QtWidgets import *
 import requests
-logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s', level=logging.INFO)
 
 class Ui_ProxyChecker(object):
     def setupUi(self, ProxyChecker):
