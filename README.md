@@ -5,3 +5,5 @@ The script will check the availability of 'https://www.google.com/humans.txt' us
 The code of the "pure" script is located at \ proxyChecker_gui \ code.py, there is also a ready-made solution with a graphical interface, 
 it is located at \ proxyChecker_gui \ dist, in the form of two parts of the archive. 
 The script can check proxies like SOCKS4, SOCKS5, HTTP, HTTPS.
+
+Tutorial https://www.youtube.com/watch?v=ZJn4bOSzx_Y
