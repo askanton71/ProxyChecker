@@ -1,4 +1,7 @@
 # ProxyChecker
+
+23.10.2020 Update. Multithreads check added. File name file_chk_multi.py
+
 GUI proxy check tool.
 Just enter the type of proxy, address and port, if necessary, authorization data. 
 The script will check the availability of 'https://www.google.com/humans.txt' using the data you entered and show the result. 
