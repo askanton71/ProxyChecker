@@ -1,5 +1,5 @@
 # ProxyChecker
-06.11.2020 Update. Indedepdent GUI. API requests for proxy lists.
+06.11.2020 Update. Independent GUI. API requests for proxy lists.
 
 23.10.2020 Update. Multithreads check added. File name file_chk_multi.py
 
